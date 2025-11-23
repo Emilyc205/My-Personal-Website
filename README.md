@@ -1,22 +1,22 @@
 **Personal Portfolio Website** 
 A short portfolio website showcasing my core skills in web development 
  
- **Includes**:
+ **Includes**
 - Navigation Bar
 - Home Page
 - Portfolio Page
 
 
-  **Coding langauge Used**:
+  **Coding langauge Used**
   - HTML
   - CSS
   
-  **Future Improvements**:
+  **Future Improvements**
 - Add animations 
 - Include a contact section in the navigation bar
 - Use new fonts in different sections
 
-This project was originally created following the Girls Who Code personal website requirements. The instructions are included below for reference.
+This project was originally created following the Girls Who Code personal website requirements and starter code. I expanded on the instructions to create a personalized website with my own features. The instructions are included below for reference.
 
 # Personal Website Starter Code
 
@@ -33,6 +33,6 @@ Your project should:
 - Use classes and/or IDs to style CSS elements.
 
 
-**Credits**:
+**Credits**
   Image by Sung Jin Cho on [Unsplash] https://unsplash.com/photos/brown-and-white-animal-plush-toy-SCXFgBoy-as
   
