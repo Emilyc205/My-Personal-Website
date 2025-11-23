@@ -31,6 +31,8 @@ Your project should:
 - Include alt text for every image in your website.
 - Apply styles to text, image, and navigation bar elements using CSS rules.
 - Use classes and/or IDs to style CSS elements.
+
+
 **Credits**
   Image by Sung Jin Cho on [Unsplash] https://unsplash.com/photos/brown-and-white-animal-plush-toy-SCXFgBoy-as
   
