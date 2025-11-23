@@ -8,7 +8,8 @@ A short portfolio website showcasing my core skills in web development
 **Coding langauge Used**
   - HTML
   - CSS
-**Future Improvements**
+  
+  **Future Improvements**
 - Add animations 
 - Include a contact section in the navigation bar
 - Use new fonts in different sections
