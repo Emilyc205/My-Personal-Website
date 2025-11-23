@@ -55,7 +55,7 @@ h1 {
   text-align: center;
  
 }
-p{
+p {
   color: #080808;
   font-size:25px;
   font-family: Arial;
@@ -67,7 +67,7 @@ p{
   color: #025a13;
 }
 /* STYLE IMAGES */
-#totoro
+#totoro {
 border-radius: 50%;
 }
 /* STYLE NAV BAR */
@@ -75,8 +75,8 @@ border-radius: 50%;
   background-color: white;
   
 }
-li a{
-  text-decoration:none;
+li a {
+  text-decoration: none;
   color: black;
   font-size: 1.3em;
   padding: 1em;
@@ -92,5 +92,5 @@ li a:hover {
   background-color:#cce8e2;
 }
 
-)
+
 
