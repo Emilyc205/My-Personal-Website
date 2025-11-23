@@ -1,5 +1,5 @@
 **Personal Portfolio Website** 
-A short portfolio website swhocasing my core skills in web development 
+A short portfolio website showcasing my core skills in web development 
 **Includes**
 - Navigation Bar
 - Home Page
