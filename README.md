@@ -5,7 +5,7 @@ A short portfolio website showcasing my core skills in web development
 - Navigation Bar
 - Home Page
 - Portfolio Page
-**Coding langauge Used**:
+   **Coding langauge Used**:
   - HTML
   - CSS
   
