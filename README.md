@@ -33,6 +33,6 @@ Your project should:
 - Use classes and/or IDs to style CSS elements.
 
 
-**Credits**
+**Credits**:
   Image by Sung Jin Cho on [Unsplash] https://unsplash.com/photos/brown-and-white-animal-plush-toy-SCXFgBoy-as
   
